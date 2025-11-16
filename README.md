@@ -3,7 +3,6 @@
 # **End Points:**
 
 #### **Get All participants:**
-[https://t3a2-b-back-end-production.up.railway.app/participants](https://t3a2-b-back-end-production.up.railway.app/participants)
 
 ```JSON
 [
@@ -33,7 +32,6 @@
 ```
 
 #### **Get, Put, Delete participant by id:**
-[https://t3a2-b-back-end-production.up.railway.app/participants/id](https://t3a2-b-back-end-production.up.railway.app/participants/id)
 
 ```JSON
 [
@@ -49,7 +47,6 @@
 ```
 
 #### **Get All beverages Seeded and Neverchanging:**
-[https://t3a2-b-back-end-production.up.railway.app/beverages](https://t3a2-b-back-end-production.up.railway.app/beverages)
 
 ```JSON
 
@@ -83,7 +80,6 @@
 ```
 
 #### **Get All foods Seeded and Neverchanging:**
-[https://t3a2-b-back-end-production.up.railway.app/foods](https://t3a2-b-back-end-production.up.railway.app/foods)
 
 ```JSON
 
